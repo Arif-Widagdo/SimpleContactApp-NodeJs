@@ -43,6 +43,7 @@ export const saveContact = (name, email, noHp) => {
       return false;
     }
   }
+  
   // Check validation Number Phone from Region Indonesian
   if (!validator.isMobilePhone(noHp, "id-ID")) {
     console.log(chalk.bgRed.bold("   The mobile number you entered is invalid!   "));
