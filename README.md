@@ -8,7 +8,7 @@ This repository is a simple contacts application in console form built using nod
 ## Installation
 
 ```sh
-https://github.com/Arif-Widagdo/SimpleContactApp-NodeJs.git
+git clone https://github.com/Arif-Widagdo/SimpleContactApp-NodeJs.git
 ```
 
 
