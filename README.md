@@ -38,7 +38,7 @@ function of Add new Contact
 | :---------------  | :---------  | :------------ | :--------- |
 | --name            | -n          | string-type   |  Yes       |
 | --email           | -e          | string-type   |  No        |                                                                                 
-| --noHP            | o           | string-type   |  Yes       | 
+| --noHP            | -o           | string-type   |  Yes       | 
 
 eg: 
 ```sh
